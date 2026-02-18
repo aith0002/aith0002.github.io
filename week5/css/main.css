@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(147, 159, 180);
+}
+/* changing color of header bg */
+
+header{
+    background-color: aquamarine;
+padding: 20px;
+margin: 20px;}
+
+p{
+    color: red;
+}
+
+h1,h2,h3{
+    text-decoration: underline;
+}
+
+section{
+    border: 2px solid black;
+;}
+ /* using id to target an element */
+ #aboutus{
+    background-color: azure;
+  /* text-transform:uppercase; */
+background-color: cadetblue;color: aliceblue;}
+section ul li:nth-child(odd){
+    background-color: bisque;
+}
+
+ 
